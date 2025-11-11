@@ -1,0 +1,18 @@
+Day 1
+
+If you want to embed ai in anything you need a lot of data for thiss
+(analyze-identify-result) ->ml and dl
+
+intelligent -> data
+analyze pattern -> ml and deep learning
+image/video data -> computer vision
+text/audio data -> natural langugae processing & ml/dl
+generative ai -> some form of content into another 
+(text-text (chatgpt))
+text-image
+text-video
+text-audio
+Ai agent -> can do work automatically and predict
+Agentic ai ->combination of multiple ai agents
+data analysts -> collecting data and giving insights from the data
+data scientist -> using the past data&creating ml/dl model to predict the future / personalization
